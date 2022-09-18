@@ -25,7 +25,7 @@ func main() {
 		if err != nil {
 			panic(err)
 		}
-		defer conn.Close()
+
 		go func(c net.Conn) {
 			defer c.Close()
 

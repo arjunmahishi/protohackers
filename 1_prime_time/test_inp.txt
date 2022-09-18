@@ -1,0 +1,6 @@
+{"method": "isPrime", "number": 4}
+{"method": "isPrime", "number": 3}
+{"method": "isPrime", "number": 3395154.1234}
+{"method": "isPrime"}
+{"method": "isPrime", "number": 4400}
+{"method": "isPrime", "number": 1}
