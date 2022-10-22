@@ -1,0 +1,514 @@
+listening on port 9000...
+2022/10/22 17:19:23 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:24 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:24 session.go:57: * The room contains: 
+
+2022/10/22 17:19:25 session.go:57: * The room contains: SlimyCoder883
+
+2022/10/22 17:19:25 session.go:57: * PinkCaster575 has joined the room
+
+2022/10/22 17:19:26 session.go:57: [SlimyCoder883] Hi!
+
+2022/10/22 17:19:26 session.go:57: [PinkCaster575] Hello!
+
+2022/10/22 17:19:27 session.go:57: [SlimyCoder883] Is this thing on?
+
+2022/10/22 17:19:27 session.go:57: [PinkCaster575] Seems to be!
+
+2022/10/22 17:19:28 session.go:57: [SlimyCoder883] Great success.
+
+2022/10/22 17:19:28 session.go:57: [SlimyCoder883] On to the next check then.
+
+2022/10/22 17:19:29 session.go:57: [PinkCaster575] Be seeing you.
+
+2022/10/22 17:19:29 session.go:57: [PinkCaster575] Oh, one more thing
+
+2022/10/22 17:19:30 session.go:57: [SlimyCoder883] Just one more thing
+
+2022/10/22 17:19:30 session.go:57: [SlimyCoder883] Never mind!
+
+2022/10/22 17:19:31 session.go:57: [PinkCaster575] Bye now.
+
+2022/10/22 17:19:34 session.go:53: error: read tcp 128.199.177.117:37994->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:19:34 session.go:53: error: read tcp 128.199.177.117:37996->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:19:37 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:38 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:38 session.go:57: * The room contains: 
+
+2022/10/22 17:19:38 session.go:57: * ProtoBob204 has joined the room
+
+2022/10/22 17:19:38 session.go:57: * The room contains: BigAlice525
+
+2022/10/22 17:19:39 session.go:57: [BigAlice525] Hi ProtoBob204
+
+2022/10/22 17:19:39 session.go:57: [BigAlice525] Where is the merchandise?
+
+2022/10/22 17:19:40 session.go:57: [ProtoBob204] I buried it just outside the car park.
+
+2022/10/22 17:19:40 session.go:57: [BigAlice525] Outside? You were meant to bury it inside the car park.
+
+2022/10/22 17:19:41 session.go:57: [ProtoBob204] Never mind.
+
+2022/10/22 17:19:41 session.go:57: [ProtoBob204] Just pay.
+
+2022/10/22 17:19:42 session.go:57: [BigAlice525] Where should I send the money?
+
+2022/10/22 17:19:43 session.go:57: [ProtoBob204] Please send the payment of 750 Boguscoins to 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:19:43 session.go:57: [BigAlice525] OK, sent.
+
+2022/10/22 17:19:44 session.go:57: [ProtoBob204] I'm not seeing it?
+
+2022/10/22 17:19:44 session.go:57: [BigAlice525] What do you mean? I sent it to 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:19:45 session.go:57: [ProtoBob204] What??? Nooo! We've been hacked!
+
+2022/10/22 17:19:48 session.go:53: error: read tcp 128.199.177.117:37998->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:19:48 session.go:53: error: read tcp 128.199.177.117:38000->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:19:51 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:52 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:52 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:53 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:54 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:54 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:55 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:56 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:19:56 session.go:57: * The room contains: 
+
+2022/10/22 17:19:56 session.go:57: * PinkAlice614 has joined the room
+
+2022/10/22 17:19:56 session.go:57: * The room contains: TinyFred170
+
+2022/10/22 17:19:57 session.go:57: * TinyCharlie256 has joined the room
+
+2022/10/22 17:19:57 session.go:57: * The room contains: PinkAlice614, TinyFred170
+
+2022/10/22 17:19:57 session.go:57: * TinyCharlie256 has joined the room
+
+2022/10/22 17:19:57 session.go:57: * PoorHacker221 has joined the room
+
+2022/10/22 17:19:57 session.go:57: * PoorHacker221 has joined the room
+
+2022/10/22 17:19:57 session.go:57: * PoorHacker221 has joined the room
+
+2022/10/22 17:19:57 session.go:57: * BigHunter801 has joined the room
+
+2022/10/22 17:19:57 session.go:57: * The room contains: PoorHacker221, PinkAlice614, TinyFred170, TinyCharlie256
+
+2022/10/22 17:19:57 session.go:57: * BigHunter801 has joined the room
+
+2022/10/22 17:19:57 session.go:57: * BigHunter801 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * The room contains: PoorHacker221, PinkAlice614, TinyFred170, BigHunter801, TinyCharlie256
+
+2022/10/22 17:19:58 session.go:57: * MadAlice823 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * MadAlice823 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * MadAlice823 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * MadAlice823 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * TinyEdward953 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * TinyEdward953 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * TinyEdward953 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * The room contains: BigHunter801, TinyFred170, MadAlice823, TinyCharlie256, PinkAlice614, PoorHacker221
+
+2022/10/22 17:19:58 session.go:57: * TinyEdward953 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * TinyEdward953 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * GreenFred693 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * GreenFred693 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * The room contains: BigHunter801, TinyEdward953, TinyFred170, MadAlice823, TinyCharlie256, PinkAlice614, PoorHacker221
+
+2022/10/22 17:19:58 session.go:57: * GreenFred693 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * GreenFred693 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * GreenFred693 has joined the room
+
+2022/10/22 17:19:58 session.go:57: * GreenFred693 has joined the room
+
+2022/10/22 17:19:59 session.go:57: * SmallCharlie527 has joined the room
+
+2022/10/22 17:19:59 session.go:57: * SmallCharlie527 has joined the room
+
+2022/10/22 17:19:59 session.go:57: * The room contains: BigHunter801, TinyEdward953, TinyFred170, MadAlice823, GreenFred693, TinyCharlie256, PinkAlice614, PoorHacker221
+
+2022/10/22 17:19:59 session.go:57: * SmallCharlie527 has joined the room
+
+2022/10/22 17:19:59 session.go:57: * SmallCharlie527 has joined the room
+
+2022/10/22 17:19:59 session.go:57: * SmallCharlie527 has joined the room
+
+2022/10/22 17:19:59 session.go:57: * SmallCharlie527 has joined the room
+
+2022/10/22 17:19:59 session.go:57: * SmallCharlie527 has joined the room
+
+2022/10/22 17:19:59 session.go:57: [TinyFred170] Is everyone here now and ready for the conference to start?
+
+2022/10/22 17:19:59 session.go:57: [TinyFred170] Is everyone here now and ready for the conference to start?
+
+2022/10/22 17:19:59 session.go:57: [TinyFred170] Is everyone here now and ready for the conference to start?
+
+2022/10/22 17:19:59 session.go:57: [TinyFred170] Is everyone here now and ready for the conference to start?
+
+2022/10/22 17:19:59 session.go:57: [TinyFred170] Is everyone here now and ready for the conference to start?
+
+2022/10/22 17:19:59 session.go:57: [TinyFred170] Is everyone here now and ready for the conference to start?
+
+2022/10/22 17:19:59 session.go:57: [TinyFred170] Is everyone here now and ready for the conference to start?
+
+2022/10/22 17:20:00 session.go:57: [PinkAlice614] I think so.
+
+2022/10/22 17:20:00 session.go:57: [PinkAlice614] I think so.
+
+2022/10/22 17:20:00 session.go:57: [PinkAlice614] I think so.
+
+2022/10/22 17:20:00 session.go:57: [PinkAlice614] I think so.
+
+2022/10/22 17:20:00 session.go:57: [PinkAlice614] I think so.
+
+2022/10/22 17:20:00 session.go:57: [PinkAlice614] I think so.
+
+2022/10/22 17:20:00 session.go:57: [PinkAlice614] I think so.
+
+2022/10/22 17:20:00 session.go:57: [TinyCharlie256] Yes, I am here.
+
+2022/10/22 17:20:00 session.go:57: [TinyCharlie256] Yes, I am here.
+
+2022/10/22 17:20:00 session.go:57: [TinyCharlie256] Yes, I am here.
+
+2022/10/22 17:20:00 session.go:57: [TinyCharlie256] Yes, I am here.
+
+2022/10/22 17:20:00 session.go:57: [TinyCharlie256] Yes, I am here.
+
+2022/10/22 17:20:00 session.go:57: [TinyCharlie256] Yes, I am here.
+
+2022/10/22 17:20:00 session.go:57: [TinyCharlie256] Yes, I am here.
+
+2022/10/22 17:20:01 session.go:57: [PoorHacker221] Also present.
+
+2022/10/22 17:20:01 session.go:57: [PoorHacker221] Also present.
+
+2022/10/22 17:20:01 session.go:57: [PoorHacker221] Also present.
+
+2022/10/22 17:20:01 session.go:57: [PoorHacker221] Also present.
+
+2022/10/22 17:20:01 session.go:57: [PoorHacker221] Also present.
+
+2022/10/22 17:20:01 session.go:57: [PoorHacker221] Also present.
+
+2022/10/22 17:20:01 session.go:57: [PoorHacker221] Also present.
+
+2022/10/22 17:20:01 session.go:57: [PoorHacker221] Also present.
+
+2022/10/22 17:20:01 session.go:57: [TinyFred170] Please pay the ticket price of 15 Boguscoins to one of these addresses: 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:01 session.go:57: [TinyFred170] Please pay the ticket price of 15 Boguscoins to one of these addresses: 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:01 session.go:57: [TinyFred170] Please pay the ticket price of 15 Boguscoins to one of these addresses: 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:01 session.go:57: [TinyFred170] Please pay the ticket price of 15 Boguscoins to one of these addresses: 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:01 session.go:57: [TinyFred170] Please pay the ticket price of 15 Boguscoins to one of these addresses: 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:01 session.go:57: [TinyFred170] Please pay the ticket price of 15 Boguscoins to one of these addresses: 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:01 session.go:57: [TinyFred170] Please pay the ticket price of 15 Boguscoins to one of these addresses: 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:02 session.go:57: [BigHunter801] I will not be paying! Information wants to be free!
+
+2022/10/22 17:20:02 session.go:57: [BigHunter801] I will not be paying! Information wants to be free!
+
+2022/10/22 17:20:02 session.go:57: [BigHunter801] I will not be paying! Information wants to be free!
+
+2022/10/22 17:20:02 session.go:57: [BigHunter801] I will not be paying! Information wants to be free!
+
+2022/10/22 17:20:02 session.go:57: [BigHunter801] I will not be paying! Information wants to be free!
+
+2022/10/22 17:20:02 session.go:57: [BigHunter801] I will not be paying! Information wants to be free!
+
+2022/10/22 17:20:02 session.go:57: [BigHunter801] I will not be paying! Information wants to be free!
+
+2022/10/22 17:20:02 session.go:57: [TinyFred170] And also send your refund address just in case.
+
+2022/10/22 17:20:02 session.go:57: [TinyFred170] And also send your refund address just in case.
+
+2022/10/22 17:20:02 session.go:57: [TinyFred170] And also send your refund address just in case.
+
+2022/10/22 17:20:02 session.go:57: [TinyFred170] And also send your refund address just in case.
+
+2022/10/22 17:20:02 session.go:57: [TinyFred170] And also send your refund address just in case.
+
+2022/10/22 17:20:02 session.go:57: [TinyFred170] And also send your refund address just in case.
+
+2022/10/22 17:20:02 session.go:57: [TinyFred170] And also send your refund address just in case.
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] Sent.
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] Sent.
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] Sent.
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] Sent.
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] Sent.
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] Sent.
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] Sent.
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] 7YWHMfk9JZe0LM0g1ZauHuiSxhI is my refund address
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] 7YWHMfk9JZe0LM0g1ZauHuiSxhI is my refund address
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] 7YWHMfk9JZe0LM0g1ZauHuiSxhI is my refund address
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] 7YWHMfk9JZe0LM0g1ZauHuiSxhI is my refund address
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] 7YWHMfk9JZe0LM0g1ZauHuiSxhI is my refund address
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] 7YWHMfk9JZe0LM0g1ZauHuiSxhI is my refund address
+
+2022/10/22 17:20:03 session.go:57: [PinkAlice614] 7YWHMfk9JZe0LM0g1ZauHuiSxhI is my refund address
+
+2022/10/22 17:20:04 session.go:57: [PoorHacker221] Also sent.
+
+2022/10/22 17:20:04 session.go:57: [PoorHacker221] Also sent.
+
+2022/10/22 17:20:04 session.go:57: [PoorHacker221] Also sent.
+
+2022/10/22 17:20:04 session.go:57: [PoorHacker221] Also sent.
+
+2022/10/22 17:20:04 session.go:57: [PoorHacker221] Also sent.
+
+2022/10/22 17:20:04 session.go:57: [PoorHacker221] Also sent.
+
+2022/10/22 17:20:04 session.go:57: [PoorHacker221] Also sent.
+
+2022/10/22 17:20:04 session.go:57: [PoorHacker221] Also sent.
+
+2022/10/22 17:20:04 session.go:57: [TinyCharlie256] Sent.
+
+2022/10/22 17:20:04 session.go:57: [TinyCharlie256] Sent.
+
+2022/10/22 17:20:04 session.go:57: [TinyCharlie256] Sent.
+
+2022/10/22 17:20:04 session.go:57: [TinyCharlie256] Sent.
+
+2022/10/22 17:20:04 session.go:57: [TinyCharlie256] Sent.
+
+2022/10/22 17:20:04 session.go:57: [TinyCharlie256] Sent.
+
+2022/10/22 17:20:04 session.go:57: [TinyCharlie256] Sent.
+
+2022/10/22 17:20:05 session.go:57: [TinyCharlie256] 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:05 session.go:57: [TinyCharlie256] 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:05 session.go:57: [TinyCharlie256] 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:05 session.go:57: [TinyCharlie256] 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:05 session.go:57: [TinyCharlie256] 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:05 session.go:57: [TinyCharlie256] 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:05 session.go:57: [TinyCharlie256] 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:05 session.go:57: [PoorHacker221] Send refunds to 7rRwDMh5mJylGP7D7vicQot74y please.
+
+2022/10/22 17:20:05 session.go:57: [PoorHacker221] Send refunds to 7rRwDMh5mJylGP7D7vicQot74y please.
+
+2022/10/22 17:20:05 session.go:57: [PoorHacker221] Send refunds to 7rRwDMh5mJylGP7D7vicQot74y please.
+
+2022/10/22 17:20:05 session.go:57: [PoorHacker221] Send refunds to 7rRwDMh5mJylGP7D7vicQot74y please.
+
+2022/10/22 17:20:05 session.go:57: [PoorHacker221] Send refunds to 7rRwDMh5mJylGP7D7vicQot74y please.
+
+2022/10/22 17:20:05 session.go:57: [PoorHacker221] Send refunds to 7rRwDMh5mJylGP7D7vicQot74y please.
+
+2022/10/22 17:20:05 session.go:57: [PoorHacker221] Send refunds to 7rRwDMh5mJylGP7D7vicQot74y please.
+
+2022/10/22 17:20:05 session.go:57: [PoorHacker221] Send refunds to 7rRwDMh5mJylGP7D7vicQot74y please.
+
+2022/10/22 17:20:05 session.go:57: [TinyFred170] What, you all have the same refund address?
+
+2022/10/22 17:20:05 session.go:57: [TinyFred170] What, you all have the same refund address?
+
+2022/10/22 17:20:05 session.go:57: [TinyFred170] What, you all have the same refund address?
+
+2022/10/22 17:20:05 session.go:57: [TinyFred170] What, you all have the same refund address?
+
+2022/10/22 17:20:05 session.go:57: [TinyFred170] What, you all have the same refund address?
+
+2022/10/22 17:20:05 session.go:57: [TinyFred170] What, you all have the same refund address?
+
+2022/10/22 17:20:05 session.go:57: [TinyFred170] What, you all have the same refund address?
+
+2022/10/22 17:20:06 session.go:57: [MadAlice823] Looks like it!
+
+2022/10/22 17:20:06 session.go:57: [MadAlice823] Looks like it!
+
+2022/10/22 17:20:06 session.go:57: [MadAlice823] Looks like it!
+
+2022/10/22 17:20:06 session.go:57: [MadAlice823] Looks like it!
+
+2022/10/22 17:20:06 session.go:57: [MadAlice823] Looks like it!
+
+2022/10/22 17:20:06 session.go:57: [MadAlice823] Looks like it!
+
+2022/10/22 17:20:06 session.go:57: [MadAlice823] Looks like it!
+
+2022/10/22 17:20:06 session.go:57: [TinyFred170] Nobody has paid???
+
+2022/10/22 17:20:06 session.go:57: [TinyFred170] Nobody has paid???
+
+2022/10/22 17:20:06 session.go:57: [TinyFred170] Nobody has paid???
+
+2022/10/22 17:20:06 session.go:57: [TinyFred170] Nobody has paid???
+
+2022/10/22 17:20:06 session.go:57: [TinyFred170] Nobody has paid???
+
+2022/10/22 17:20:06 session.go:57: [TinyFred170] Nobody has paid???
+
+2022/10/22 17:20:06 session.go:57: [TinyFred170] Nobody has paid???
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has joined the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has joined the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has joined the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has joined the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has joined the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has joined the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has joined the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has joined the room
+
+2022/10/22 17:20:07 session.go:57: [Tony8435814] Hahaha and thanks for all the fish.
+
+2022/10/22 17:20:07 session.go:57: [Tony8435814] Hahaha and thanks for all the fish.
+
+2022/10/22 17:20:07 session.go:57: [Tony8435814] Hahaha and thanks for all the fish.
+
+2022/10/22 17:20:07 session.go:57: [Tony8435814] Hahaha and thanks for all the fish.
+
+2022/10/22 17:20:07 session.go:57: [Tony8435814] Hahaha and thanks for all the fish.
+
+2022/10/22 17:20:07 session.go:57: [Tony8435814] Hahaha and thanks for all the fish.
+
+2022/10/22 17:20:07 session.go:57: [Tony8435814] Hahaha and thanks for all the fish.
+
+2022/10/22 17:20:07 session.go:57: [Tony8435814] Hahaha and thanks for all the fish.
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has left the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has left the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has left the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has left the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has left the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has left the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has left the room
+
+2022/10/22 17:20:07 session.go:57: * Tony8435814 has left the room
+
+2022/10/22 17:20:07 session.go:53: error: read tcp 128.199.177.117:38002->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:07 session.go:57: * TinyFred170 has left the room
+
+2022/10/22 17:20:07 session.go:57: * TinyFred170 has left the room
+
+2022/10/22 17:20:07 session.go:57: * TinyFred170 has left the room
+
+2022/10/22 17:20:07 session.go:57: * TinyFred170 has left the room
+
+2022/10/22 17:20:07 session.go:57: * TinyFred170 has left the room
+
+2022/10/22 17:20:07 session.go:57: * TinyFred170 has left the room
+
+2022/10/22 17:20:07 session.go:57: * TinyFred170 has left the room
+
+2022/10/22 17:20:11 session.go:53: error: read tcp 128.199.177.117:38004->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:11 session.go:53: error: read tcp 128.199.177.117:38006->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:11 session.go:53: error: read tcp 128.199.177.117:38008->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:11 session.go:53: error: read tcp 128.199.177.117:38010->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:11 session.go:57: * PoorHacker221 has left the room
+
+2022/10/22 17:20:11 session.go:57: * PoorHacker221 has left the room
+
+2022/10/22 17:20:11 session.go:53: error: read tcp 128.199.177.117:38014->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:11 session.go:53: error: read tcp 128.199.177.117:38016->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:11 session.go:53: error: read tcp 128.199.177.117:38012->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:14 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:20:14 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:20:15 session.go:57: * The room contains: 
+
+2022/10/22 17:20:15 session.go:57: * SlimyDave584 has joined the room
+
+2022/10/22 17:20:15 session.go:57: * The room contains: SmallFred390
+
+2022/10/22 17:20:17 session.go:57: [SmallFred390] Hello, world!
+
+2022/10/22 17:20:18 session.go:57: [SlimyDave584] Hi
+
+2022/10/22 17:20:24 session.go:57: [SmallFred390] 7YWHMfk9JZe0LM0g1ZauHuiSxhI 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:27 session.go:57: [SlimyDave584] 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:28 session.go:57: [SmallFred390] thanks.
+
+2022/10/22 17:20:31 session.go:53: error: read tcp 128.199.177.117:38020->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:31 session.go:53: error: read tcp 128.199.177.117:38018->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:34 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:20:35 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:20:35 session.go:57: * The room contains: 
+
+2022/10/22 17:20:36 session.go:57: * ProtoEdward889 has joined the room
+
+2022/10/22 17:20:36 session.go:57: * The room contains: BlueNewbie149
+
+2022/10/22 17:20:36 session.go:57: [BlueNewbie149] This is too long: 7YWHMfk9JZe0LM0g1ZauHuiSxhI
+
+2022/10/22 17:20:37 session.go:57: [ProtoEdward889] 7YWHMfk9JZe0LM0g1ZauHuiSxhI is too short
+
+2022/10/22 17:20:37 session.go:57: [BlueNewbie149] This doesn't start with a 7: 3fnD0QFQ5AJk7D7favwHMHzOObIngn6
+
+2022/10/22 17:20:38 session.go:57: [ProtoEdward889] This is a product ID, not a Boguscoin: 7cdL4wGiNkykZkj4ZG3W0DDZtYJzcE-ggMYY2owhUpHfQsLRcGeO90nzuoNkr-1234
+
+2022/10/22 17:20:41 session.go:53: error: read tcp 128.199.177.117:38022->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:41 session.go:53: error: read tcp 128.199.177.117:38024->206.189.113.124:16963: use of closed network connection
+2022/10/22 17:20:44 session.go:57: Welcome to budgetchat! What shall I call you?
+
+2022/10/22 17:20:45 session.go:53: error: read tcp 128.199.177.117:38026->206.189.113.124:16963: use of closed network connection
